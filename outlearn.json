@@ -3,7 +3,7 @@
 
   "paths" : [
     {
-      "name" : "path-referencing-an-outside-module"
+      "name" : "path-referencing-an-outside-module",
       "title" : "A Path built from an Outside Module.",
       "description" : "For testing pursposes it helps to have a path built from an outside module.",
       "privacy" : "public",
